@@ -1,3 +1,27 @@
-body p { 
-    background-color: red;
+nav{
+    text-transform: uppercase;
+    font-family: serif;
+}
+header {
+    /* hieght and width of the header*/
+    height:500px;
+    /*this is the cover page*/
+    background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+    background-size: cover;
+    /*this is the alignment*/
+    text-align: center;
+    color: white;
+}
+header p{
+    font-style: italic;
+}
+.services i{
+    padding: 20px 20px 20px 20px;
+    background-color: #895589;
+    color:white;
+    font-size: 20px;
+    border-radius: 50%;
+}
+.services{
+    text-align: center;
 }
