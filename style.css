@@ -25,3 +25,59 @@ header p{
 .services{
     text-align: center;
 }
+.standard{
+    border: 1px solid black;
+    text-align: center;
+    height: 270px;
+}
+.Standard {
+    background: #004070;
+    color: white;
+    height: 70px;
+    margin: 5px 5px 5px 5px;
+    border-radius: 5px;
+}
+.Standard p{
+   padding: 20px 0;
+}
+.price{
+    background: grey;
+    color: black;
+    font-size: 14px;
+    height: 50px;
+    margin: 5px 5px 5px 5px;
+    border-radius: 5px
+    
+}
+.price p{
+    padding: 15px 0;
+}
+.description{
+    height: 100px;
+    margin: 30px;
+    color: grey;
+}
+.description p {
+    line-height: 5px;
+    font-size: 12px;
+}
+
+.premium{
+    border: 1px solid black;
+    text-align: center;
+    height: 270px;
+}
+.Premium {
+    background: #605070;
+    color: white;
+    height: 70px;
+    margin: 5px 5px 5px 5px;
+    border-radius: 5px;
+}
+.Premium p{
+   padding: 20px 0;
+}
+
+.pricing h3{
+    text-align: center;
+}
