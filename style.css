@@ -81,3 +81,17 @@ header p{
 .pricing h3{
     text-align: center;
 }
+.img img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+.team h3{
+    text-align: center;
+}
+.contact h3{
+    text-align: center;
+}
+.doc{
+    padding-top: 20px;
+}
