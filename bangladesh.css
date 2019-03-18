@@ -15,6 +15,7 @@ header {
 header p{
     font-style: italic;
 }
+/*services*/
 .services i{
     padding: 20px 20px 20px 20px;
     background-color: #895589;
@@ -25,6 +26,7 @@ header p{
 .services{
     text-align: center;
 }
+/* pricing */
 .standard{
     border: 1px solid black;
     text-align: center;
@@ -81,6 +83,7 @@ header p{
 .pricing h3{
     text-align: center;
 }
+/* team*/
 .img img {
     width: 150px;
     height: 150px;
@@ -89,9 +92,31 @@ header p{
 .team h3{
     text-align: center;
 }
+/* contact */
 .contact h3{
     text-align: center;
 }
 .doc{
     padding-top: 20px;
+}
+.button {
+    padding: 10px 10px 10px 10px;
+}
+/* footer */
+.footer {
+    background: black;
+    color: grey;
+}
+.col-md-4{
+    padding: 10px 10px 10px 10px;
+}
+.ic {
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 50%;
+}
+.ic:hover{
+    color: blue;
+    background-color: white;
+    
 }
